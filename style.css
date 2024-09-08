@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(14, 5, 48);
+    color: rgb(166, 222, 255);
+    text-align: center;
+}
+mark {
+    background-color: rgb(8, 16, 172);
+    color: rgb(166, 222, 255)
+}
